@@ -25,4 +25,6 @@ $$ e = \phi $$
 | Sprawdzam jak działa | fajna zabawa |    gituwa     |
 |                      |              |               |
 |                      |              |               |
-          
+         
+		 
+dasdasdasdasda
