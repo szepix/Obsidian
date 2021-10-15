@@ -14,5 +14,5 @@ $$ e = \phi $$
 > #### Trzeba coś napisać	
 > [[inna]]
 > [[mechanika]]
-
+![[Pasted image 20211015080510.png]]
 
