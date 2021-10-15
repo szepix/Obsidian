@@ -1,0 +1,105 @@
+{
+  "main": {
+    "id": "9dd8f1403aa8e57b",
+    "type": "split",
+    "children": [
+      {
+        "id": "48bad345445e1531",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Testowa.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ade2377abf7172dc",
+    "type": "split",
+    "children": [
+      {
+        "id": "d9f4f261383641a6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b219a58bb7b76d00",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "5db728cfb19be03e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "97cdcb38d9e5b698",
+    "type": "split",
+    "children": [
+      {
+        "id": "281c44511c8d2fcf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1379dd0fde6c809b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Testowa.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "7d55c9cd5196360d",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "48bad345445e1531",
+  "lastOpenFiles": [
+    "Testowa.md",
+    "mechanika.md",
+    "inna.md",
+    "Untitled.md",
+    "Notatka.md",
+    "Pasted image 20211014101303.png"
+  ]
+}
