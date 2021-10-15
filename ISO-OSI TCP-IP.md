@@ -10,11 +10,11 @@ tags: #SKM
 ---
 ## Proces komunikacji
 ### Komputer:
->aplikacji ---> transportowa ---> internetowa ---> dostępu do sieci ---> kodowanie i przesył do serwera
+>###### aplikacji ---> transportowa ---> internetowa ---> dostępu do sieci ---> kodowanie i przesył do serwera
 >Jest to Enkapsulacja
 
 ### Serwer:
->#### dostępu do sieci ---> internetowa ---> transportowa ---> aplikacji
+>###### dostępu do sieci ---> internetowa ---> transportowa ---> aplikacji
 > Jest to Dekapsulacja
 
 ---
