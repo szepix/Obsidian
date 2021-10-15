@@ -12,7 +12,20 @@
             "file": "Podstawy Sieci.md",
             "mode": "preview"
           }
-        }
+        },
+        "group": "87703f50ba0f53e5"
+      },
+      {
+        "id": "d3ae8b065969762c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Podstawy Sieci.md",
+            "mode": "source"
+          }
+        },
+        "group": "87703f50ba0f53e5"
       }
     ],
     "direction": "vertical"
@@ -48,8 +61,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -102,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Podstawy Sieci.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c6fb82a899c51812",
+  "active": "d3ae8b065969762c",
   "lastOpenFiles": [
     "Podstawy Sieci.md",
     "Studia.md",
