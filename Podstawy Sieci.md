@@ -15,8 +15,8 @@ tags: #SKM
 > 1 bit [b]
 > 1 b/s lub 1 bps
 > 1 bajt[B] = 8 bitów[b]
-
 ---
+
 
 ## 2. Media transmisyjne
 1. Kable koncentryczne

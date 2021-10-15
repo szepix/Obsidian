@@ -15,7 +15,7 @@ tags: #SKM
 
 ### Serwer:
 >#### dostępu do sieci ---> internetowa ---> transportowa ---> aplikacji
->Jest to Dekapsulacja
+> Jest to Dekapsulacja
 
 ---
 ### Nazwy danych:
