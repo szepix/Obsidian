@@ -2,4 +2,3 @@
 
 > - Studia
 > - Inne gówna
-

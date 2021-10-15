@@ -16,5 +16,7 @@ $$ e = \phi $$
 > 
 > [[inna]]
 > [[mechanika]]
-![[Pasted image 20211015080510.png]]
+
+
+
 
