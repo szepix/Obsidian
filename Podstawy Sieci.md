@@ -1,6 +1,8 @@
 # 1. Podstawowe pojęcia
+---
 tags: #SKM 
 
+---
 
 >[==Extranet==](https://pl.wikipedia.org/wiki/Ekstranet) - roszerzona odmiana sieci intranet
 >[==Intranet==](https://pl.wikipedia.org/wiki/Intranet) -  niepubliczna sieć telekomunikacyjna
@@ -14,6 +16,8 @@ tags: #SKM
 > 1 b/s lub 1 bps
 > 1 bajt[B] = 8 bitów[b]
 
+---
+
 ## 2. Media transmisyjne
 1. Kable koncentryczne
 
@@ -26,3 +30,5 @@ tags: #SKM
 > - S/FTP
 
 3. Światłowód
+
+---

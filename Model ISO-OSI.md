@@ -1,5 +1,7 @@
 # Model ISO/OSI
+---
 tags: #SKM 
+---
 > ## *Warstwa aplikacji*
 > - pozwala korzystać z sieci jej użytkownikom
 > ## *Warstwa prezentacji*
@@ -14,3 +16,5 @@ tags: #SKM
 > - kontroluje dostęp do medium transmisyjnego
 > ## *Warstwa fizyczna*
 > koduje dane do postaci bitow i przekazuje do medium
+
+---

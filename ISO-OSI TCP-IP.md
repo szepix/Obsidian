@@ -1,10 +1,13 @@
 # Rodzaje modeli warstwowych:
+---
 tags: #SKM
- ## [[Model TCP-PIP]] 
+
+---
+ ## [[Model TCP-IP]] 
  - model protokołów
  ## [[Model ISO-OSI]]
  - model odniesień
-
+---
 ## Proces komunikacji
 ### Komputer:
 >aplikacji ---> transportowa ---> internetowa ---> dostępu do sieci ---> kodowanie i przesył do serwera
@@ -14,6 +17,8 @@ tags: #SKM
 >#### dostępu do sieci ---> internetowa ---> transportowa ---> aplikacji
 >Jest to Dekapsulacja
 
+---
+### Nazwy danych:
 
 | Warstwa          | Nazwa Danych         |
 | ---------------- | -------------------- |
@@ -22,3 +27,4 @@ tags: #SKM
 | internetowa      | pakiet               |
 | dostępu do sieci | ramka                |
 
+---
