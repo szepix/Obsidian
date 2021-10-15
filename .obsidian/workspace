@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "48bad345445e1531",
+        "id": "f923ef3c99b2d276",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -93,15 +93,15 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "48bad345445e1531",
+  "active": "f923ef3c99b2d276",
   "lastOpenFiles": [
     "Testowa.md",
+    "inna.md",
+    "mechanika.md",
+    "Pasted image 20211014101303.png",
+    "Pasted image 20211015080510.png",
     "README.md",
     "Untitled.md",
-    "Pasted image 20211015080510.png",
-    "mechanika.md",
-    "inna.md",
-    "Notatka.md",
-    "Pasted image 20211014101303.png"
+    "Notatka.md"
   ]
 }

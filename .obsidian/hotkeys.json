@@ -1,1 +1,10 @@
-{}
+{
+  "hotkeysplus-obsidian:toggle-block-quote": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "."
+    }
+  ]
+}
