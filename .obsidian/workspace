@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Testowa.md",
+            "file": "ISO-OSI TCP-IP.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#SKM",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -48,7 +48,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -68,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Testowa.md",
+                "file": "ISO-OSI TCP-IP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +98,15 @@
   },
   "active": "3f8570630db1df22",
   "lastOpenFiles": [
+    "ISO-OSI TCP-IP.md",
+    "Model TCP-IP.md",
+    "Podstawy Sieci.md",
     "Testowa.md",
     "Studia.md",
-    "ISO-OSI TCP-IP.md",
     "Model TC-PIP.md",
     "ISO-OSI.md",
     "Model ISO-OSI.md",
-    "Podstawy Sieci.md",
     "README.md",
-    "Model TCPIP.md",
-    "Model ISOOSI.md"
+    "Model TCPIP.md"
   ]
 }

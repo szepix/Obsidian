@@ -28,3 +28,7 @@ tags: #SKM
 | dostępu do sieci | ramka                |
 
 ---
+
+### Proces komunikacji
+
+
