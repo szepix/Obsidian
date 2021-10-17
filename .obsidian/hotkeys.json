@@ -1,11 +1,3 @@
 {
-  "hotkeysplus-obsidian:toggle-block-quote": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "."
-    }
-  ],
   "file-explorer:new-file-in-new-pane": []
 }

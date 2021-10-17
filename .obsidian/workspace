@@ -4,28 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "c6fb82a899c51812",
+        "id": "38ff2e08c3ff102d",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Testowa.md",
+            "file": "Model TCP-IP.md",
             "mode": "preview"
           }
-        },
-        "group": "d47b0dbb7b6c3fb2"
-      },
-      {
-        "id": "e790b2cb3cac8b5e",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Testowa.md",
-            "mode": "source"
-          }
-        },
-        "group": "d47b0dbb7b6c3fb2"
+        }
       }
     ],
     "direction": "vertical"
@@ -81,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Testowa.md",
+                "file": "Model TCP-IP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Testowa.md",
+                "file": "Model TCP-IP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,17 +126,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e790b2cb3cac8b5e",
+  "active": "38ff2e08c3ff102d",
   "lastOpenFiles": [
-    "Testowa.md",
-    "Studia.md",
-    "Podstawy Sieci.md",
-    "README.md",
     "Model TCP-IP.md",
+    "Podstawy Sieci.md",
+    "Studia.md",
+    "Testowa.md",
+    "Untitled.md",
+    "README.md",
     "Model ISO-OSI.md",
     "ISO-OSI TCP-IP.md",
     "Model TCP-PIP.md",
-    "ISO/OSI Model ISO-OSI.md",
-    "Untitled.md"
+    "ISO/OSI Model ISO-OSI.md"
   ]
 }
