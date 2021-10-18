@@ -4,17 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "3f8570630db1df22",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Przykłady regulacji.md",
-            "mode": "preview"
-          }
-        }
-      },
-      {
         "id": "68e2d8a49c5275e7",
         "type": "leaf",
         "state": {
