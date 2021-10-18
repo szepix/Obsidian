@@ -1,7 +1,7 @@
 tagi: #PODA 
 
 ### Uchyb regulacji 
-> Błąd, np różnica między prędkościa maksymalną a prędkościa aktualną samochodu
+> Błąd, np różnica między prędkościa zadaną a prędkościa aktualną samochodu
 
 ## Przykłady:
 
