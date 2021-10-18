@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "68e2d8a49c5275e7",
+        "id": "9136a3b42c310203",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "Przykłady regulacji.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       }
@@ -52,8 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "97cdcb38d9e5b698",
@@ -96,16 +95,16 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "68e2d8a49c5275e7",
+  "active": "9136a3b42c310203",
   "lastOpenFiles": [
     "Przykłady regulacji.md",
     "Regulacja i stabilizacja.md",
-    "Untitled.md",
     "Studia.md",
+    "Testowa.md",
+    "Untitled.md",
     "PODA.md",
     "README.md",
     "Podstawy Sieci.md",
-    "Testowa.md",
     "Model TCP-IP.md",
     "Model ISO-OSI.md"
   ]

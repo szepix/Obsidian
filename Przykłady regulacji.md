@@ -67,7 +67,7 @@ tagi: #PODA
 
 ![[Pasted image 20211018205301.png]]
 
-- Regulatory - algorytmy regulacji
+- Regulatory - algorytmy [[Regulacja i stabilizacja#Regulacja|regulacji]]
 - sterowniki przemysłowe - wydajna jednostka do implementacji złożonych algorytmów
 - Systemy wbudowane:
 > Pierwszy mikrokontroler jednoukładowy: Intel 8051
