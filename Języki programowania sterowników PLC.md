@@ -40,11 +40,13 @@ Tagi: #SP
 
 ## Typy języków PLC
 
-| ang.                      | pol.                           | typ       | opis                                                                                                                                                                           |
-| ------------------------- | ------------------------------ | --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Ladder diagram            | Język drabinkowy               | Graficzny | Programy są przedstawiane jako obwody elektryczne zawierające styki przekaźników                                                                                               |
-| Function Block Diagram    | Język Bloków Funkcyjnych       | Graficzny | Programy są przedstawiane jako połączenie bloków funkcyjnych podobnych do schematów układów cyfrowych                                                                          |
-| Instruction List          | Lista instrukcji               | Tekstowy  | Język tekstowy niskiego poziomu, przypominający język asemblera                                                                                                                |
-| Structured text           | Tekst Strukturalny             | Tekstowy  | Język tekstowy wysokiego poziomu, wzorowany na języku Pascal                                                                                                                   |
-| Sequential Function Chart | Schemat Funkcji Sekswencyjnych | Graficzny | Programy śap rzedstawiane w postaci, podobnej od diagramów stanów. SFC bazuje na formalizmie sieci Petriego i pozwala opisywać algorytmy zarówno sekwencyjne, jak i równoległe |
-|                           |                                |           |                                                                                                                                                                                |
+| ang.                        | pol.                          | typ       | opis                                                                                                                                                                           |
+| --------------------------- | ----------------------------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Ladder diagram              | Język drabinkowy              | Graficzny | Programy są przedstawiane jako obwody elektryczne zawierające styki przekaźników                                                                                               |
+| Function Block Diagram      | Język Bloków Funkcyjnych      | Graficzny | Programy są przedstawiane jako połączenie bloków funkcyjnych podobnych do schematów układów cyfrowych                                                                          |
+| Instruction List            | Lista instrukcji              | Tekstowy  | Język tekstowy niskiego poziomu, przypominający język asemblera                                                                                                                |
+| Structured text             | Tekst Strukturalny            | Tekstowy  | Język tekstowy wysokiego poziomu, wzorowany na języku Pascal                                                                                                                   |
+| Sequential Function Chart   | Schemat Funkcji Sekwencyjnych | Graficzny | Programy śap rzedstawiane w postaci, podobnej od diagramów stanów. SFC bazuje na formalizmie sieci Petriego i pozwala opisywać algorytmy zarówno sekwencyjne, jak i równoległe |
+| Object-Oriented Programming | Programowanie obiektwoe       | Tekstowy  | Programy obiektowe, z różnymi językami programowania, nie budzą większego zainteresowania                                                                                                                                                                               |
+
+ 
