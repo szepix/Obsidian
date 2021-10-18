@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Regulacja i stabilizacja.md",
+            "file": "Przykłady regulacji.md",
             "mode": "preview"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Regulacja i stabilizacja.md",
+                "file": "Przykłady regulacji.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,8 +98,8 @@
   },
   "active": "68e2d8a49c5275e7",
   "lastOpenFiles": [
-    "Regulacja i stabilizacja.md",
     "Przykłady regulacji.md",
+    "Regulacja i stabilizacja.md",
     "Untitled.md",
     "Studia.md",
     "PODA.md",

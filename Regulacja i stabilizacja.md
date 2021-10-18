@@ -16,7 +16,7 @@ Kiedy chcemy automatyzować procesy:
 
 ### Regulacja:
 - decyzje dotyczące wartości ciągłych sygnałów sterujących np napięcia, prądu, przepływu
-- celem jest obliczanie takich wartości syngałów sterujących procesu, aby jego wyjścia miały określone wartości:
+- celem jest obliczanie takich wartości sygnałów sterujących procesu, aby jego wyjścia miały określone wartości:
 > - ***stabilizacja***: utrzymywanie stałych wartości wyjścia pomimo działania zakłóceń na proces
 > - ***nadążanie*** za zmianami wartości zadanej
 
