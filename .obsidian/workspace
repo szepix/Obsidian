@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Regulacja i stabilizacja.md",
+            "file": "Przykłady regulacji.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Regulacja i stabilizacja.md",
+                "file": "Przykłady regulacji.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +97,7 @@
   },
   "active": "3f8570630db1df22",
   "lastOpenFiles": [
+    "Przykłady regulacji.md",
     "Regulacja i stabilizacja.md",
     "Untitled.md",
     "Studia.md",
@@ -105,7 +106,6 @@
     "Podstawy Sieci.md",
     "Testowa.md",
     "Model TCP-IP.md",
-    "Model ISO-OSI.md",
-    "Języki programowania sterowników PLC.md"
+    "Model ISO-OSI.md"
   ]
 }
