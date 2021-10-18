@@ -56,3 +56,38 @@ tagi: #PODA
 > - przetwarzanie informacji (podejmowanie decyzji sterujących)
 > - prezentacja informacji
 
+### System informatyczny:
+> System informacyjny zrealizowany w oparciu o urządzenia i środki informatyki (komputery i oprogramowanie)
+> Jednostka obliczeniowa wyznacza dane
+
+## Platformy systemów informatycznych:
+- [[Języki programowania sterowników PLC|PLC]]: 
+> łatwo napisać różne programy, które są ładowane do pamięci
+> Sterownik ten umożliwia implementację algorytmów regulacji
+
+![[Pasted image 20211018205301.png]]
+
+- Regulatory - algorytmy regulacji
+- sterowniki przemysłowe - wydajna jednostka do implementacji złożonych algorytmów
+- Systemy wbudowane:
+> Pierwszy mikrokontroler jednoukładowy: Intel 8051
+> Współczesne mikrokontrolery: STM
+
+## Platformy obliczeniowe automatyki:
+- PLC
+- Regulatory
+- Sterowniki przemysłowe
+- Systemy wbudowane
+
+## Cechy systemów sterujących:
+1. Bezpieczeństwo i niezawodność działania:
+- testowanie przed uruchomieniem systemu
+- im droższy sprzęt tym większa redundacja(nadmiarowość w stosunku do tego, co konieczne lub zwykłe)
+- urządzenia o wysokiej wytrzymałości
+
+2. Przestrzeganie ograniczeń czasowych:
+> algorytmy sterowania i regulacji działają w systemach czasu rzeczywistego
+
+3. Złożone systemy działają pod nadzorem operatora
+
+
