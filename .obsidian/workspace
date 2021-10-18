@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
-            "mode": "preview"
+            "file": "Regulacja i stabilizacja.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Regulacja i stabilizacja.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +97,15 @@
   },
   "active": "3f8570630db1df22",
   "lastOpenFiles": [
+    "Regulacja i stabilizacja.md",
+    "Untitled.md",
+    "Studia.md",
+    "PODA.md",
     "README.md",
     "Podstawy Sieci.md",
-    "Studia.md",
     "Testowa.md",
     "Model TCP-IP.md",
     "Model ISO-OSI.md",
-    "Języki programowania sterowników PLC.md",
-    "Untitled.md",
-    "ISO-OSI TCP-IP.md",
-    "Model TC-PIP.md"
+    "Języki programowania sterowników PLC.md"
   ]
 }

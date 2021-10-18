@@ -9,3 +9,6 @@
 
 2. Sterowniki programowalne [#SP]
 >1. [[Języki programowania sterowników PLC]]
+
+3. Podstawy automatyki [#PODA]
+> 1.[[Regulacja i stabilizacja]]
