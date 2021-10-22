@@ -23,6 +23,6 @@ $$ e = \phi $$
 |:--------------------:|:------------:|:-------------:|
 |         Test         |  Drugi test  |  Trzeci test  |
 | Sprawdzam jak działa | fajna zabawa |    gituwa     |
-|                      |              |               |
+|         dupa         |              |               |
 |                      |              |               |
           

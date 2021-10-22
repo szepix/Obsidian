@@ -1,37 +1,15 @@
 {
   "main": {
-    "id": "9dd8f1403aa8e57b",
+    "id": "e7851237798e7cd1",
     "type": "split",
     "children": [
       {
-        "id": "38ff2e08c3ff102d",
+        "id": "faf45cdf42aeff1b",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Model TCP-IP.md",
-            "mode": "preview"
-          }
-        }
-      },
-      {
-        "id": "4d1da51621ab1764",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Model TCP-IP.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "e20996c10dd2fab7",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "conflict-files-obsidian-git.md",
+            "file": "Półprzewodniki.md",
             "mode": "source"
           }
         }
@@ -61,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#SKM",
+                "query": "samoistn",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Półprzewodniki.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,65 +78,25 @@
                 "unlinkedCollapsed": false
               }
             }
-          },
-          {
-            "id": "7d55c9cd5196360d",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "2d5b4559e02e8d89",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
-          },
-          {
-            "id": "63de8b2bac6029ce",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "95c02a835ae20f96",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "e20996c10dd2fab7",
+  "active": "faf45cdf42aeff1b",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Model TCP-IP.md",
-    "Model ISO-OSI.md",
+    "Półprzewodniki.md",
+    "Rodzaje materiałów.md",
     "ISO-OSI TCP-IP.md",
-    "Podstawy Sieci.md",
-    "Studia.md",
+    "Model TCP-IP.md",
     "Testowa.md",
-    "Untitled.md",
-    "README.md",
-    "Model TCP-PIP.md"
+    "Regulacja i stabilizacja.md",
+    "Krzem.md",
+    "conflict-files-obsidian-git.md",
+    "Model ISO-OSI.md",
+    "Podstawy Sieci.md"
   ]
 }
