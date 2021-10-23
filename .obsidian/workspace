@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Półprzewodniki.md",
+            "file": "Przykłady regulacji.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Półprzewodniki.md",
+                "file": "Przykłady regulacji.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -78,16 +78,50 @@
                 "unlinkedCollapsed": false
               }
             }
+          },
+          {
+            "id": "c5ff06a5c93c67be",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "77047e51563ad490",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Przykłady regulacji.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "386a722146a7a044",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Przykłady regulacji.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "faf45cdf42aeff1b",
   "lastOpenFiles": [
+    "Przykłady regulacji.md",
     "Półprzewodniki.md",
     "Rodzaje materiałów.md",
     "ISO-OSI TCP-IP.md",
@@ -96,7 +130,6 @@
     "Regulacja i stabilizacja.md",
     "Krzem.md",
     "conflict-files-obsidian-git.md",
-    "Model ISO-OSI.md",
-    "Podstawy Sieci.md"
+    "Model ISO-OSI.md"
   ]
 }
