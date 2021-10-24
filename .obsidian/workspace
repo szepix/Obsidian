@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Przykłady regulacji.md",
+            "file": "Lab SKM.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Przykłady regulacji.md",
+                "file": "Lab SKM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Przykłady regulacji.md",
+                "file": "Lab SKM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Przykłady regulacji.md"
+                "file": "Lab SKM.md"
               }
             }
           }
@@ -117,10 +117,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "faf45cdf42aeff1b",
   "lastOpenFiles": [
+    "Lab SKM.md",
     "Przykłady regulacji.md",
     "Półprzewodniki.md",
     "Rodzaje materiałów.md",
@@ -129,7 +131,6 @@
     "Testowa.md",
     "Regulacja i stabilizacja.md",
     "Krzem.md",
-    "conflict-files-obsidian-git.md",
-    "Model ISO-OSI.md"
+    "conflict-files-obsidian-git.md"
   ]
 }
