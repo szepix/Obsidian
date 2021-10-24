@@ -7,8 +7,10 @@
 - Protokół UDP jest **prostym, bezpołączeniowym** protokołem, którego największą zaletą jest **niewielki narzut danych sterujących**
 - TCP - połączeniowy, niezawodny, strumieniowy protokół komunikacyjny stosowany do przesyłania danych między procesami uruchomionymi na różnych maszynach
 
-### Nagłówek IP:
-![[Pasted image 20211024102017.png]]
+### Nagłówki:
 
+[Link](https://mw.home.amu.edu.pl/zajecia/SIK2016/SIK07.html)
 
+Nagłówek ARP:
+![[Pasted image 20211024102252.png]]
 
