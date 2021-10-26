@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Lab SKM.md",
+            "file": "COŚ.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lab SKM.md",
+                "file": "COŚ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lab SKM.md",
+                "file": "COŚ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lab SKM.md"
+                "file": "COŚ.md"
               }
             }
           }
@@ -122,6 +122,7 @@
   },
   "active": "faf45cdf42aeff1b",
   "lastOpenFiles": [
+    "COŚ.md",
     "Lab SKM.md",
     "Przykłady regulacji.md",
     "Półprzewodniki.md",
@@ -130,7 +131,6 @@
     "Model TCP-IP.md",
     "Testowa.md",
     "Regulacja i stabilizacja.md",
-    "Krzem.md",
-    "conflict-files-obsidian-git.md"
+    "Krzem.md"
   ]
 }
