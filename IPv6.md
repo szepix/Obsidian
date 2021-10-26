@@ -33,4 +33,9 @@ Prefix zamiast maski w IPv6
 ![[Pasted image 20211026112526.png]]
 
 ### DHCP
-[Dynamic Host Configuration Protocol – Wikipedia, wolna encyklopedia](https://pl.wikipedia.org/wiki/Dynamic_Host_Configuration_Protocol)
+[Dynamic Host Configuration Protocol](https://pl.wikipedia.org/wiki/Dynamic_Host_Configuration_Protocol)
+> protokół komunikacyjny umożliwiający hostom uzyskanie od serwera danych konfiguracyjnych, np. adresu IP hosta, adresu IP bramy sieciowej, adresu serwera DNS, maski podsieci.
+
+![[Pasted image 20211026113653.png]]
+
+![[Pasted image 20211026114329.png]]
