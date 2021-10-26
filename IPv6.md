@@ -28,6 +28,10 @@ Prefix zamiast maski w IPv6
 
 ![[Pasted image 20211026110128.png]]
 
+### ICMP
+
+
+
 
 
 
