@@ -30,9 +30,7 @@ Prefix zamiast maski w IPv6
 
 ### ICMP
 
+![[Pasted image 20211026112526.png]]
 
-
-
-
-
-
+### DHCP
+[Dynamic Host Configuration Protocol – Wikipedia, wolna encyklopedia](https://pl.wikipedia.org/wiki/Dynamic_Host_Configuration_Protocol)
