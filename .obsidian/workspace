@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "EWA.md",
+            "file": "Mosfet.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EWA.md",
+                "file": "Mosfet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EWA.md",
+                "file": "Mosfet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EWA.md"
+                "file": "Mosfet.md"
               }
             }
           }
@@ -123,7 +123,7 @@
   },
   "active": "faf45cdf42aeff1b",
   "lastOpenFiles": [
-    "EWA.md",
+    "Mosfet.md",
     "Półprzewodniki.md",
     "ISO-OSI TCP-IP.md",
     "IPv6.md",
