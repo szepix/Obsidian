@@ -54,7 +54,14 @@ MOS - sterowany opornik, sterowane źródło prądu
 Struktura PNPN:
 - Działanie podobne jak trzy diody
 
-Używamy tyrystory:
 - gdy źródło jest źródłem wyprostowanego sinusoidalnego, gdy co jakiś czas napięcie spada do 0
+- regulacja sygnału pozwala na wpływanie na moc tyrystora poprzez pole, które pokrywa impuls
 
+Tyrystor jest zbyt wolny, czasy zapłonu/wyłączania są duże
+impuls zapalający(sterujący) ma duże napięcie
+Skłonność do przebijania się zależy od temperatury
+
+Dodatne sprzężenie zwrotne - po przebiciu tyrystor przewodzi prąd do momentu odcięcia napięcia
+
+![[Pasted image 20211026153229.png]]
 
