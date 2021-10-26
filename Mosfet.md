@@ -47,3 +47,14 @@ $$U_{D(sat)} = U_{GS}-U_T$$
 MOS - sterowany opornik, sterowane źródło prądu
 
 
+### Tyrystor
+- Tyrystor to element trójkońcówkowy, cztery warstwy półprzewodników
+- Właściwości zbliżone do diody półprzewodnikowej
+
+Struktura PNPN:
+- Działanie podobne jak trzy diody
+
+Używamy tyrystory:
+- gdy źródło jest źródłem wyprostowanego sinusoidalnego, gdy co jakiś czas napięcie spada do 0
+
+
