@@ -22,6 +22,13 @@ NAT - network address translation
 
 ![[Pasted image 20211026105412.png]]
 
+:: - 8 zer 
+
+Prefix zamiast maski w IPv6
+
+![[Pasted image 20211026110128.png]]
+
+
 
 
 
