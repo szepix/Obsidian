@@ -34,5 +34,15 @@ Gdzie $$U_T$$ to napięcie progowe(próg inwersji, czyli kiedy się włączy), $
 $$I_D = I_S$$ bo przez bramkę nie płynie prąd
 $$I_G = 0$$
 
-Wspólna elektroda dla wejścia i wyjścia, układ wspólnego źródła
+Wspólna elektroda dla wejścia i wyjścia, ***układ wspólnego źródła***
+
+![[Pasted image 20211026145758.png]]
+
+Zakres rezystancyjny - nienasycenia, jesteśmy w stanie zmieniać strumień nośników w warstwie inwersyjnej
+
+Zakres nasycenia - nie jesteśmy w stanie przesłać większej liczby nośników niż określona najwyższa
+
+$$U_{D(sat)} = U_{GS}-U_T$$
+
+MOS - sterowany opornik, sterowane źródło prądu
 
