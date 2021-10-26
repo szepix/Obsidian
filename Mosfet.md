@@ -70,5 +70,12 @@ Dodatne sprzężenie zwrotne - po przebiciu tyrystor przewodzi prąd do momentu 
 ![[Pasted image 20211026153715.png]]
 ![[Pasted image 20211026153813.png]]
 - w stanie wytrzymać wyższe napięcia
-- 
+- szybko działa
+- Charakterystyka "raczej" kwadratowa
+
+### Warystor
+- element przeciwprzepięciowy
+- nieliniowa rezystancja, która gwałtownie maleje powyżej pewnej wartości modułu napięcia
+
+$$U_L = L\frac{di}{dt}$$
 
