@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "IPv6.md",
+            "file": "EWA.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IPv6.md",
+                "file": "EWA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IPv6.md",
+                "file": "EWA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IPv6.md"
+                "file": "EWA.md"
               }
             }
           }
@@ -123,15 +123,15 @@
   },
   "active": "faf45cdf42aeff1b",
   "lastOpenFiles": [
+    "EWA.md",
+    "Półprzewodniki.md",
+    "ISO-OSI TCP-IP.md",
     "IPv6.md",
     "Lab SKM.md",
     "Przykłady regulacji.md",
-    "Półprzewodniki.md",
     "Rodzaje materiałów.md",
-    "ISO-OSI TCP-IP.md",
     "Model TCP-IP.md",
     "Testowa.md",
-    "Regulacja i stabilizacja.md",
-    "Krzem.md"
+    "Regulacja i stabilizacja.md"
   ]
 }
