@@ -79,3 +79,6 @@ Dodatne sprzężenie zwrotne - po przebiciu tyrystor przewodzi prąd do momentu 
 
 $$U_L = L\frac{di}{dt}$$
 
+![[Pasted image 20211026155400.png]]
+
+
