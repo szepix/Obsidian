@@ -27,3 +27,12 @@ MOSFET nie wymaga prądu, żeby pracować. Nie jest potrzebny ciągły prąd do 
 
 Podłoże zwiera się ze źródłem, przez co zostają tylko 3 nóżki. Wyróżnione zostaje źródło.
 
+Jeśli $$U_{ds}$$ jest odpowiednio wysokie, to
+$$I_D = \beta*(U_{GS}-U_T)^2 $$ beta inna niż w bipolarnym
+Gdzie $$U_T$$ to napięcie progowe(próg inwersji, czyli kiedy się włączy), $$\beta$$ to parametr modelu
+
+$$I_D = I_S$$ bo przez bramkę nie płynie prąd
+$$I_G = 0$$
+
+Wspólna elektroda dla wejścia i wyjścia, układ wspólnego źródła
+
