@@ -65,3 +65,10 @@ Dodatne sprzężenie zwrotne - po przebiciu tyrystor przewodzi prąd do momentu 
 
 ![[Pasted image 20211026153229.png]]
 
+### IGBT
+- struktura kanapkowa
+![[Pasted image 20211026153715.png]]
+![[Pasted image 20211026153813.png]]
+- w stanie wytrzymać wyższe napięcia
+- 
+
