@@ -46,3 +46,4 @@ $$U_{D(sat)} = U_{GS}-U_T$$
 
 MOS - sterowany opornik, sterowane źródło prądu
 
+
