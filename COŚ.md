@@ -20,5 +20,8 @@ RFC 1812
 
 NAT - network address translation
 
+![[Pasted image 20211026105412.png]]
+
+
 
 
