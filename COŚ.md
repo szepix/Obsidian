@@ -18,3 +18,7 @@ RFC 1812
 
 192.168.0.0 - 192.168.255.255 - 256 adresow klasy C
 
+NAT - network address translation
+
+
+
