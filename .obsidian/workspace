@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "FPPI/Półprzewodniki.md",
-            "mode": "source"
+            "file": "FPPI/Rodzaje materiałów.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FPPI/Półprzewodniki.md",
+                "file": "FPPI/Rodzaje materiałów.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FPPI/Półprzewodniki.md",
+                "file": "FPPI/Rodzaje materiałów.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FPPI/Półprzewodniki.md"
+                "file": "FPPI/Rodzaje materiałów.md"
               }
             }
           }
@@ -122,15 +122,15 @@
   },
   "active": "faf45cdf42aeff1b",
   "lastOpenFiles": [
-    "FPPI/Półprzewodniki.md",
     "FPPI/Rodzaje materiałów.md",
+    "Studia.md",
+    "FPPI/Półprzewodniki.md",
     "FPPI/Krzem.md",
     "PODA/Przykłady regulacji.md",
     "PODA/Regulacja i stabilizacja.md",
     "SKM/ISO-OSI TCP-IP.md",
     "SKM/Lab SKM.md",
     "SKM/Model ISO-OSI.md",
-    "SKM/Model TCP-IP.md",
-    "SKM/Podstawy Sieci.md"
+    "SKM/Model TCP-IP.md"
   ]
 }
