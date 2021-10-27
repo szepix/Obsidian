@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Studia.md",
+            "file": "FPPI/Rodzaje materiałów.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Studia.md",
+                "file": "FPPI/Rodzaje materiałów.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Studia.md",
+                "file": "FPPI/Rodzaje materiałów.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Studia.md"
+                "file": "FPPI/Rodzaje materiałów.md"
               }
             }
           }
@@ -122,15 +122,15 @@
   },
   "active": "faf45cdf42aeff1b",
   "lastOpenFiles": [
-    "Studia.md",
-    "SKM/Podstawy Sieci.md",
-    "EWA/Mosfet.md",
-    "SKM/IPv6.md",
-    "SKM/ISO-OSI TCP-IP.md",
-    "Testowa.md",
-    "README.md",
-    "PODA/Regulacja i stabilizacja.md",
     "FPPI/Rodzaje materiałów.md",
-    "SKM/Lab SKM.md"
+    "FPPI/Półprzewodniki.md",
+    "FPPI/Krzem.md",
+    "PODA/Przykłady regulacji.md",
+    "PODA/Regulacja i stabilizacja.md",
+    "SKM/ISO-OSI TCP-IP.md",
+    "SKM/Lab SKM.md",
+    "SKM/Model ISO-OSI.md",
+    "SKM/Model TCP-IP.md",
+    "SKM/Podstawy Sieci.md"
   ]
 }
