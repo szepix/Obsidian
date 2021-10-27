@@ -40,6 +40,8 @@ Jeżeli Eg(energia zabroniona) jest duże to atom staje się izolatorem:
 
 ![[Pasted image 20211022082621.png]]
 
+![[Pasted image 20211027165822.png]]
+
 Ec- dno pasma przewodnictwa
 Ev - wierzcohołek pasma walencyjnego
 
