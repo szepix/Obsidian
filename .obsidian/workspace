@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "FPPI/Krzem.md",
+            "file": "FPPI/Rodzaje materiałów.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FPPI/Krzem.md",
+                "file": "FPPI/Rodzaje materiałów.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FPPI/Krzem.md",
+                "file": "FPPI/Rodzaje materiałów.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FPPI/Krzem.md"
+                "file": "FPPI/Rodzaje materiałów.md"
               }
             }
           }
@@ -122,9 +122,9 @@
   },
   "active": "faf45cdf42aeff1b",
   "lastOpenFiles": [
+    "FPPI/Rodzaje materiałów.md",
     "FPPI/Krzem.md",
     "FPPI/Półprzewodniki.md",
-    "FPPI/Rodzaje materiałów.md",
     "PODA/Przykłady regulacji.md",
     "PODA/Regulacja i stabilizacja.md",
     "SKM/ISO-OSI TCP-IP.md",

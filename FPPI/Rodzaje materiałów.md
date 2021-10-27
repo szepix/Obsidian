@@ -9,7 +9,7 @@ tags: #FPPI
 > rezystywność $$10^{-6} - 10^{8} \ohm m$$
 
 Elektrony walencyjne decydują o właściwościach chemicznych, znajdują się one na obrzeżach atomu
-
+$$V_0 - odległość ~ równowagowa$$
 ### Rodzaje wiązań
 Wiązanie metaliczne:
 > elektrony walencyjne krążą wokół jądra ("do nikogo nie należą")
@@ -22,12 +22,15 @@ Wiązanie kowalencyjne:
 W półprzewodnikach przy 0K liczba swobodnych elektronów jest równa 0
 
 #### Uwalnianie elektronów:
-> generacja termicznych
+> generacja termiczna
 
 ## Teoria pasmowa ciała stałego:
 > Jeżeli ściskamy atomy to elektrony przesuwają się z orbity
 
 ![[Pasted image 20211022082411.png]]
+
+Model pasmowy magnezu:
+![[Pasted image 20211027165442.png]]
 
 Pasmo energii zabronionych znajduje się w półprzewodnikach
 
