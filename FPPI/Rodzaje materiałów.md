@@ -1,3 +1,4 @@
+tags: #FPPI 
 #### Przewodniki:
 > niska rezystywność $$10^{-8} - 10^{-6} \ohm m$$
 

@@ -1,6 +1,7 @@
 # Model TCP/IP
 ---
-tags: #SKM 
+tags: #SKM
+
 ---
 > ## *Warstwa aplikacji*
 >  - pozwala korzystać z sieci jej użytkownikom

@@ -1,3 +1,5 @@
+tags: #FPPI 
+
 ### Cechy krzemu:
 - tani, dobre właściwości elektryczne, mechaniczne, termiczne
 - jest półprzewodnikiem

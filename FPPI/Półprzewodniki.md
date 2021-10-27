@@ -1,4 +1,4 @@
-Wolfgang Pauli 	
+tags: #FPPI 
 
 ## CO UMIEĆ:
 - ***model pasmowy***- umieć opisać zakresy, nazwać wierzchołki, warstwy, jakie energie mamy na myśli
@@ -36,9 +36,9 @@ Dla n $$\phi <0$$ - blizej przewodnictwa
 [[Rodzaje materiałów#Poziom potencjału fermiego]]
 
 Od dołu co najmniej domieszkowanie:
-$$10^10$$
+$$10^{10}$$
 od góry domieszkowanie
-$$10^22$$
+$$10^{22}$$
 
 Realne granice:
 $$10^{12-13}$$
@@ -114,8 +114,6 @@ $$\frac{D_n}{\mi_n} = \frac{D_p}{\mi_p}$$
 Stan nieustalony - zanikanie koncentracji nadmiarowych nośników w czasie
 
 ### Średnia droga dyfuzji:
-
-
-
+> średnia droga, jaką przebywa cząstka poruszająca się w ośrodku materialnym między kolejnymi zderzeniami z cząstkami tego ośrodka.
 
 
