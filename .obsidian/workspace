@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "FPPI/Rodzaje materiałów.md",
+            "file": "FPPI/Półprzewodniki.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FPPI/Rodzaje materiałów.md",
+                "file": "FPPI/Półprzewodniki.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FPPI/Rodzaje materiałów.md",
+                "file": "FPPI/Półprzewodniki.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FPPI/Rodzaje materiałów.md"
+                "file": "FPPI/Półprzewodniki.md"
               }
             }
           }
@@ -122,8 +122,8 @@
   },
   "active": "faf45cdf42aeff1b",
   "lastOpenFiles": [
-    "FPPI/Rodzaje materiałów.md",
     "FPPI/Półprzewodniki.md",
+    "FPPI/Rodzaje materiałów.md",
     "FPPI/Krzem.md",
     "PODA/Przykłady regulacji.md",
     "PODA/Regulacja i stabilizacja.md",
