@@ -1,12 +1,12 @@
 tags: #FPPI 
 #### Przewodniki:
-> niska rezystywność $$10^{-8} - 10^{-6} \ohm m$$
+> niska rezystywność $$10^{-8} - 10^{-6}~ \ohm m$$
 
 #### Izolatory:
-> wysoka rezystywność powyżej $$10^{8} \ohm m$$
+> wysoka rezystywność powyżej $$10^{8}~ \ohm m$$
 
 #### Półprzewodniki
-> rezystywność $$10^{-6} - 10^{8} \ohm m$$
+> rezystywność $$10^{-6} - 10^{8}~ \ohm m$$
 
 Elektrony walencyjne decydują o właściwościach chemicznych, znajdują się one na obrzeżach atomu
 $$V_0 - odległość ~ równowagowa$$
@@ -35,8 +35,8 @@ Model pasmowy magnezu:
 Pasmo energii zabronionych znajduje się w półprzewodnikach
 
 Jeżeli Eg(energia zabroniona) jest duże to atom staje się izolatorem:
-- $$>4eV$$ - izolator
-- $$<4eV$$ - półprzewodnik
+- \>4eV - izolator
+- <4eV - półprzewodnik
 
 ![[Pasted image 20211022082621.png]]
 
@@ -70,7 +70,7 @@ $$n_o * p_o = N_c * N_v * exp(\frac{-E_g}{kt})$$
 Eg - szerokość pasma energii zabronionych
 
 $$n_i^2$$
-$$n_i = 10^10 * cm^{-3}$$ dla krzemu
+$$n_i = 10^{10} * cm^{-3}$$ dla krzemu
 
 Półprzewodników samoisntych używa się rzadko
 Półprzewodnik typu N- dodajemy fosfor
