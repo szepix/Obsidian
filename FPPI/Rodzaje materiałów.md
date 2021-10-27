@@ -56,6 +56,7 @@ W przewodnikach przepływają dziury i elektrony (transport bipolarny)
 ***Rekombinacja*** - połączenie się elektron-dziura
 
 ### Poziom potencjału fermiego
+Jest miarą domieszkowania w półprzewodniku
 $$\int{N(E)*f(E)}$$
 $$E_f - poziom fermiego$$
 $$\frac{1}{1+\exp(\frac{E-E_f}{kt})} $$
@@ -76,3 +77,4 @@ Półprzewodnik typu N- dodajemy fosfor
 Półprzewodnik typu P - dodajemy bor
 
 
+Półprzewodnik domieszkowany w dużych temperaturach staje się półprzewodnikiem samoistnym
