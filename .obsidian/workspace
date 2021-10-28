@@ -13,6 +13,17 @@
             "mode": "preview"
           }
         }
+      },
+      {
+        "id": "0ef69aca10ba001e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "FPPI/Rodzaje materiałów.md",
+            "mode": "preview"
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -123,8 +134,8 @@
   "active": "faf45cdf42aeff1b",
   "lastOpenFiles": [
     "FPPI/Półprzewodniki.md",
-    "FPPI/Krzem.md",
     "FPPI/Rodzaje materiałów.md",
+    "FPPI/Krzem.md",
     "Studia.md",
     "PODA/Przykłady regulacji.md",
     "PODA/Regulacja i stabilizacja.md",

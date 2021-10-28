@@ -25,9 +25,9 @@ $$n_0 * p_0 = n_i^2$$
 (pamiętać mniejszościowe, większośćiowe przy wartościach n0 p0)
 ### Koncentracje:
 w półprzewodniku typu n:
-$$N_D >> N_A i N_D >> n_i$$ 
+$$N_D >> N_A ~~i~~ N_D >> n_i$$ 
 w półprzewodniku typu p:
-??$$N_A >> N_D i N_D >> n_i$$ 
+$$N_A >> N_D ~i~ N_A >> n_i$$ 
 
 ### Potencjał fermiego
 poziom dla którego prawdopodobieństwo obsadzenia = 1/2
@@ -71,7 +71,7 @@ Makroskopowo nic się nie dzieje w tym stanie, mikroskopowo równowaga ta ma cha
 - chaotyczne ruchy termiczne nośników związane ze zderzeniami z siecią krystaliczną. W związku z tym $$V_wypadkowe = 0$$
 - Energia krzemu w T=300K $$V_th = 10^7 \frac{cm}{s}$$
 - chwilowe wartości koncentracji nośników w określonym punkcie mogą być różne, ale ogólnie $$n_0 * p_0 = n_i^2$$
-- droga swobodna $$\alpha = 10^{-5} cm$$
+- droga swobodna $$\lambda = 10^{-5} cm$$
 - czas relaksacji zderzeniowej: ???$$\tau_{rel} = \frac{\alpha}{t}$$
 
 
@@ -98,7 +98,7 @@ Wraz z ilością domieszek rezystywność maleje
 ### Relacja Einsteina
 > W przypadku obu rodzajów transportu nośnikom "przeszkadza" to samo - zderzają się z siecią krystaliczną, domieszkanie
 
-$$\frac{D_n}{\mi_n} = \frac{D_p}{\mi_p}$$
+$$\frac{D_n}{\mu_n} = \frac{D_p}{\mu_p}$$
 
 - suma prądów elektronowego i dziurowego (transport bipolarny)
 - nośniki jednego i drugiego typu mogą być unoszone przez pole elektryczne
