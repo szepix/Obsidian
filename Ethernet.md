@@ -25,3 +25,8 @@ Ethernet encapsulation - wybór nagłówka ethernet
 UTP - wrazliwe na wygięcia itp
 
 ## Routing vs VLAN
+Port based - przełączniki logiczne, ręczne przydzielanie
+
+Tagged - w ramkach dodawana jest informacja do którego vlanu ramka należy
+
+MAC based - na podstawi
