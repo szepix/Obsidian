@@ -29,4 +29,7 @@ Port based - przełączniki logiczne, ręczne przydzielanie
 
 Tagged - w ramkach dodawana jest informacja do którego vlanu ramka należy
 
-MAC based - na podstawi
+MAC based - na podstawie adresów fizycznych urządzeń
+
+8100 w typ określa pozycje tagu
+QinQ pozwala na tworzenie vlan w vlan
