@@ -9,19 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "FPPI/Półprzewodniki.md",
-            "mode": "preview"
-          }
-        }
-      },
-      {
-        "id": "0ef69aca10ba001e",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "FPPI/Rodzaje materiałów.md",
-            "mode": "preview"
+            "file": "Ethernet.md",
+            "mode": "source"
           }
         }
       }
@@ -79,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FPPI/Półprzewodniki.md",
+                "file": "Ethernet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FPPI/Półprzewodniki.md",
+                "file": "Ethernet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FPPI/Półprzewodniki.md"
+                "file": "Ethernet.md"
               }
             }
           }
@@ -133,6 +122,7 @@
   },
   "active": "faf45cdf42aeff1b",
   "lastOpenFiles": [
+    "Ethernet.md",
     "FPPI/Półprzewodniki.md",
     "FPPI/Rodzaje materiałów.md",
     "FPPI/Krzem.md",
@@ -141,7 +131,6 @@
     "PODA/Regulacja i stabilizacja.md",
     "SKM/ISO-OSI TCP-IP.md",
     "SKM/Lab SKM.md",
-    "SKM/Model ISO-OSI.md",
-    "SKM/Model TCP-IP.md"
+    "SKM/Model ISO-OSI.md"
   ]
 }
