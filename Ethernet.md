@@ -20,3 +20,4 @@ Metody dostępu do medium:
 
 ![[Pasted image 20211109105412.png]]
 
+Ethernet encapsulation - wybór nagłówka ethernet
