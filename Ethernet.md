@@ -16,4 +16,7 @@ Metody dostępu do medium:
 > tania, prosta w konstrukcji, czesto wykorzystywana
 
 - Dostęp jednoczesny z unikaniem kolizji
->  
+>  przed wysłaniem pakietów, wysyła się pakiet żądzania transmisji, jeśli wystąpi kolizja podczas przesyłania tego małego pakietu, to nie przesyła nic. Używana w sieciach bezprzewodowych
+
+![[Pasted image 20211109105412.png]]
+
