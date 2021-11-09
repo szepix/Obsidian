@@ -22,3 +22,6 @@ Metody dostępu do medium:
 
 Ethernet encapsulation - wybór nagłówka ethernet
 
+UTP - wrazliwe na wygięcia itp
+
+## Routing vs VLAN
